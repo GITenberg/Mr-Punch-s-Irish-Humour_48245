@@ -1,0 +1,24 @@
+_repo: Mr-Punch-s-Irish-Humour_48245
+creator:
+  authors:
+  - agent_name: Keene, Charles
+    alias: Keene, Charles Samuel
+    birthdate: 1823
+    deathdate: 1891
+    gutenberg_agent_id: '37404'
+    url: http://www.gutenberg.org/2009/agents/37404
+  - agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2015-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Mr. Punch's Irish Humour
+url: http://www.gutenberg.org/ebooks/48245
